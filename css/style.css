@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: rgb(253, 253, 253);
+    background-image: linear-gradient(to right, #e7e7e7, #ededed, #f3f3f3, #f9f9f9, #ffffff);
     font-family: 'Roboto',"Noto Sans Myanmar UI",arial,sans-serif;
 
 }
